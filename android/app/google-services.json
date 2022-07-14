@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "757274381177",
+    "project_id": "wce-consumers",
+    "storage_bucket": "wce-consumers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757274381177:android:a935c00c129a6be6827da8",
+        "android_client_info": {
+          "package_name": "com.example.wce_acm_hackathon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757274381177-is8adovujhkmjla69jbm9gp8kptpeu2b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi-_VBsx5FLuuAu5ohjf2AMYVtKx7IFCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757274381177-is8adovujhkmjla69jbm9gp8kptpeu2b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
