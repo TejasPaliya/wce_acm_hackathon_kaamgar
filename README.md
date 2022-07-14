@@ -1,16 +1,2 @@
 # wce_acm_hackathon
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Created our first android app connected with database. This was a hackathon project with an aim to connect government, youths and manufacturing industries. Our project was not fully compleated before the hackathon, but judges liked our idea and the app was serving it's purpose. We plan to add further features to the project in a while.
